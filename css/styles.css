@@ -324,7 +324,7 @@ background: #313131;
 
 header .only-logo .navbar {
     background: none;
-    padding: 60px;
+    padding: 70px 60px 20px;
 }
 
 header .only-logo .navbar .navbar-header {
